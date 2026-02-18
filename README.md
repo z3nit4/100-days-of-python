@@ -11,7 +11,8 @@ This repository contains my solutions and projects as I work through the 100 Day
 - **Day 6:** Functions – wrote reusable functions like even/odd and square calculator.  
 - **Day 7:** Hangman – implemented a word guessing game.  
 - **Day 8:** Number Guessing Game – learned how to loop until correct guess.  
-- **Day 9:** Student Grade Tracker – practiced tuples, lists, and dictionaries.  
+- **Day 9:** Student Grade Tracker – practiced tuples, lists, and dictionaries.
+- **Day 10:** Secure Login System – implemented login/registration with exception handling, user input validation, and account lock after failed attempts.
 
 ## Languages
 Python
