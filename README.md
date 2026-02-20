@@ -3,6 +3,8 @@
 This repository contains my solutions and projects as I work through the 100 Days of Python coding challenge. I'm learning core Python concepts and practicing by building small projects each day.
 
 ## Progress
+
+**FOUNDATIONAL CONCEPTS:**
 - **Day 1:** Band Name Generator – asked user for city and pet name.  
 - **Day 2:** Tip Calculator – combined user inputs and printed a calculated bill.  
 - **Day 3:** Treasure Island – text adventure game with nested conditionals.  
@@ -15,6 +17,9 @@ This repository contains my solutions and projects as I work through the 100 Day
 - **Day 10:** Secure Login System – implemented login/registration with exception handling, user input validation, and account lock after failed attempts.
 - **Day 11:** File Operations – practiced reading, writing, appending, and manipulating files using Python’s built-in I/O and os module.
 - **Day 12:** String Functions – practiced string methods like .isalpha(), .isdigit(), .isalnum(), .strip(), and slicing.
+
+**INTERMMEDIATE CONCEPTS:**
+- **Day 13:**
 
 ## Languages
 Python
