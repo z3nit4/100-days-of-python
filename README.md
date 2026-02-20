@@ -14,6 +14,7 @@ This repository contains my solutions and projects as I work through the 100 Day
 - **Day 9:** Student Grade Tracker – practiced tuples, lists, and dictionaries.
 - **Day 10:** Secure Login System – implemented login/registration with exception handling, user input validation, and account lock after failed attempts.
 - **Day 11:** File Operations – practiced reading, writing, appending, and manipulating files using Python’s built-in I/O and os module.
+- **Day 12:** String Functions – practiced string methods like .isalpha(), .isdigit(), .isalnum(), .strip(), and slicing.
 
 ## Languages
 Python
