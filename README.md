@@ -19,7 +19,7 @@ This repository contains my solutions and projects as I work through the 100 Day
 - **Day 12:** String Functions – practiced string methods like .isalpha(), .isdigit(), .isalnum(), .strip(), and slicing.
 
 **INTERMMEDIATE CONCEPTS:**
-- **Day 13:**
+- **Day 13:** Classes & Objects – built a Bank Account simulator to understand constructors (__init__), attributes, methods, and modifying object state using self.
 
 ## Languages
 Python
