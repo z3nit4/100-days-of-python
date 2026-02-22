@@ -7,7 +7,7 @@ class BankAccount:
     def deposit(self, amount):
         self.amount = amount
         self.balance += amount
-        print(f"Deposit of {amount} successful. Your balance is: {self.balance}")
+        print("Deposit of {} successful. Final balance is: {}".format(amount,self.balance))
     
     def withdraw(self, amount):
         if amount <= self.balance:
