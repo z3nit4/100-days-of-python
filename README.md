@@ -21,7 +21,7 @@ This repository contains my solutions and projects as I work through the 100 Day
 **INTERMMEDIATE CONCEPTS:**
 - **Day 13:** Classes & Objects – built a Bank Account simulator to understand constructors (__init__), attributes, methods, and modifying object state using self.
 - **Day 14:** Inheritance & Vectors - racticed parent and child classes using Animal and Person/Worker examples. Reused parent attributes and methods, overrode methods (__str__), and used super() to access parent constructors.
-- **Operator Overloading & Vectors:** Built a custom Vector class supporting addition (+) and subtraction (-) using __add__ and __sub__. Learned to represent vectors in code and output them in a readable format.
+  - **Operator Overloading & Vectors:** Built a custom Vector class supporting addition (+) and subtraction (-) using __add__ and __sub__. Learned to represent vectors in code and output them in a readable format.
 
 ## Languages
 Python
