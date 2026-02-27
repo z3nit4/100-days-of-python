@@ -24,6 +24,7 @@ This repository contains my solutions and projects as I work through the 100 Day
   - **Operator Overloading & Vectors:** Built a custom Vector class supporting addition (+) and subtraction (-) using __add__ and __sub__. Learned to represent vectors in code and output them in a readable format.
 - **Day 15:** Multithreading – Learned about threads and how they allow Python programs to run multiple tasks simultaneously for I/O-bound operations like file downloads or web requests. Built a Multi-Threaded File Downloader that downloads files from Pinterest concurrently, handling URLs safely and naming files based on the last numbers in the URL.
 - **Day 16:** Synchronizing Threads – Learned about race conditions when multiple threads access shared data simultaneously. Practiced Locks to prevent concurrent modifications and BoundedSemaphore to limit access to a shared resource. Built examples that safely double and halve a number concurrently while avoiding conflicts.
+- **Day 17:** Events & Daemon Threads – Learned how to coordinate threads using Event objects to signal and control execution flow. Built a program where a thread waits for a trigger before continuing. Explored daemon threads by creating a background file reader that continuously updates shared data while another thread prints it, understanding how daemon threads terminate automatically when the main program exits.
 
 ## Languages
 Python
