@@ -18,7 +18,7 @@ This repository contains my solutions and projects as I work through the 100 Day
 - **Day 11:** File Operations – practiced reading, writing, appending, and manipulating files using Python’s built-in I/O and os module.
 - **Day 12:** String Functions – practiced string methods like .isalpha(), .isdigit(), .isalnum(), .strip(), and slicing.
 
-**INTERMMEDIATE CONCEPTS:**
+**INTERMEDIATE CONCEPTS:**
 - **Day 13:** Classes & Objects – built a Bank Account simulator to understand constructors (__init__), attributes, methods, and modifying object state using self.
 - **Day 14:** Inheritance & Vectors - practiced parent and child classes using Animal and Person/Worker examples. Reused parent attributes and methods, overrode methods (__str__), and used super() to access parent constructors.
   - **Operator Overloading & Vectors:** Built a custom Vector class supporting addition (+) and subtraction (-) using __add__ and __sub__. Learned to represent vectors in code and output them in a readable format.
@@ -27,6 +27,11 @@ This repository contains my solutions and projects as I work through the 100 Day
 - **Day 17:** Events & Daemon Threads – Learned how to coordinate threads using Event objects to signal and control execution flow. Built a program where a thread waits for a trigger before continuing. Explored daemon threads by creating a background file reader that continuously updates shared data while another thread prints it, understanding how daemon threads terminate automatically when the main program exits.
 - **Day 18:** Queues & Port Scanner – Learned how queues can safely share work between multiple threads without conflicts. Built a multi-threaded port scanner using Python’s queue, socket, and threading modules. Practiced scanning multiple ports concurrently, handling timeouts, and collecting results in a shared list. Learned about TCP connections, common ports, and how to structure a threaded program to efficiently process tasks from a queue.
 - **Day 19:** Day 19: Socket Programming – Built a basic TCP client-server system using Python’s socket library. Implemented a server that binds to a local IP and port, listens for incoming connections, accepts clients, and sends a message when a connection is established. Created a separate client program that connects to the server, receives the message using recv(), decodes it, and prints it. This project introduced the fundamentals of network communication, including sockets, binding to ports, listening for connections, accepting clients, sending/receiving data, and encoding/decoding messages.
+- **Day 20:** SQLite & Databases – Learned how to use Python’s sqlite3 module to create and interact with a local database. Built a users table, inserted records, and retrieved data using SQL queries. Refactored the database logic into an OOP-based User class with methods for loading and inserting users while safely passing parameters into SQL queries.
 
-## Languages
-Python
+## Languages & Tools
+- Python
+- SQLite
+- Threading
+- Socket Programming
+- VS Code
