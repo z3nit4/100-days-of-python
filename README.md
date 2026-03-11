@@ -30,6 +30,7 @@ This repository contains my solutions and projects as I work through the 100 Day
 - **Day 20:** SQLite & Databases – Learned how to use Python’s sqlite3 module to create and interact with a local database. Built a users table, inserted records, and retrieved data using SQL queries. Refactored the database logic into an OOP-based User class with methods for loading and inserting users while safely passing parameters into SQL queries.
 - **Day 21:** Recursion – Learned how recursive functions solve problems by calling themselves with smaller inputs until reaching a base case. Implemented recursive and non-recursive versions of factorial and Fibonacci calculations to understand the difference in approach and performance. Explored how missing base cases can cause infinite recursion or stack overflow errors.
 - **Day 22:** XML Processing – Learned how to parse and work with XML in Python. Explored xml.sax for event-driven parsing and xml.etree.ElementTree for tree-based parsing. Practiced reading, extracting, adding, and saving elements dynamically, understanding the structure of XML files and how to manipulate them programmatically.
+- **Day 23:** Logging – Learned how to use Python’s logging module to track program events instead of relying on print(). Explored logging levels (DEBUG, INFO, WARNING, ERROR, CRITICAL) and created a custom logger called ZEN Logger. Implemented file logging with FileHandler, custom log formatting, and practiced writing structured logs to a .log file.
 
 ## Languages & Tools
 - Python
