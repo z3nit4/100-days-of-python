@@ -32,6 +32,9 @@ This repository contains my solutions and projects as I work through the 100 Day
 - **Day 22:** XML Processing – Learned how to parse and work with XML in Python. Explored xml.sax for event-driven parsing and xml.etree.ElementTree for tree-based parsing. Practiced reading, extracting, adding, and saving elements dynamically, understanding the structure of XML files and how to manipulate them programmatically.
 - **Day 23:** Logging – Learned how to use Python’s logging module to track program events instead of relying on print(). Explored logging levels (DEBUG, INFO, WARNING, ERROR, CRITICAL) and created a custom logger called ZEN Logger. Implemented file logging with FileHandler, custom log formatting, and practiced writing structured logs to a .log file.
 
+  **ADVANCED CONCEPTS:**
+  - **Day 24:** Dunder Methods (Magic Methods) – Learned how Python’s double underscore methods allow custom objects to behave like built-in types. Built a Vector class implementing __init__, __add__ for operator overloading, __repr__ for readable object output, __len__ to define object length, and __call__ to make the object behave like a function. Practiced how Python internally invokes these methods during operations like addition, printing, and function calls.
+
 ## Languages & Tools
 - Python
 - SQLite
