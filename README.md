@@ -34,6 +34,7 @@ This repository contains my solutions and projects as I work through the 100 Day
 
   **ADVANCED CONCEPTS:**
   - **Day 24:** Dunder Methods (Magic Methods) – Learned how Python’s double underscore methods allow custom objects to behave like built-in types. Built a Vector class implementing __init__, __add__ for operator overloading, __repr__ for readable object output, __len__ to define object length, and __call__ to make the object behave like a function. Practiced how Python internally invokes these methods during operations like addition, printing, and function calls.
+  - **Day 25:** Pandas Basics - Learned how to use the Pandas library for data manipulation. Created Series and DataFrames, worked with indexing using .loc, and set custom indexes. Explored how Pandas aligns data by index when performing operations like multiplication between DataFrames, understanding how labeled data structures behave.
 
 ## Languages & Tools
 - Python
